@@ -14,7 +14,7 @@ h6 {
 	font-weight: 700;
 	font-style: normal;
 	font-family: "Raleway", Sans-serif;
-	color: #0d3273;
+	color: #00A9B7;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
 	font-weight: 500;
 	font-style: normal;
 	font-family: "Raleway", Sans-serif;
-	color: #0d3273;
+	color: #00A9B7;
 }
 
 p {
@@ -37,11 +37,11 @@ img {
 	height: auto;
 }
 b {
-	color: #0d3273;
+	color: #00A9B7;
 }
 
 a {
-    color: #0d3273;	
+    color: #00A9B7;	
 }
 a:hover, a:focus, a:active, a.active {
 	color: #fec503;
@@ -78,7 +78,7 @@ section:last-child {
 	padding-left: 50px;
 }
 .navbar {
-	background-color: #0d3273;
+	background-color: #00A9B7;
 }
 
 .navbar .navbar-nav > li > a {
@@ -107,22 +107,22 @@ section:last-child {
 
 .navbar-inverse .navbar-nav > .active > a:hover {
 	background-color: #fec503;
-	color:#0d3273;
+	color:#00A9B7;
 
 }
 
 .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:active, .navbar .navbar-nav > li > a:focus   {
 	background-color: #fec503;
-	color:#0d3273;
+	color:#00A9B7;
 }
 
 .navbar-inverse .navbar-nav > a, .navbar-inverse .navbar-nav > a:hover {
 	background-color: #fec503;
-	color:#0d3273;
+	color:#00A9B7;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	border-color: #0d3273; 
+	border-color: #00A9B7; 
 }
 
 header {
@@ -215,7 +215,7 @@ header {
 	color: #000;
 }
 .blog-post .blog-post-body a {
-	color: #0d3273;
+	color: #00A9B7;
 	font-weight: 500;
 	text-decoration: underline;
 	-webkit-transition: all 0.2s ease-out;
@@ -238,7 +238,7 @@ header {
 	color: #fff;
 }
 .blog-post .post-meta a:hover {
-	color: #0d3273;
+	color: #00A9B7;
 }
 .blog-post .post-meta span {
 	padding-left: 15px;
@@ -259,8 +259,8 @@ header {
 	margin: 30px 0 0px;
 	border: 1px solid;
 	border-radius: 25px;
-	border-color: #0d3273;
-	background-color: #0d3273;
+	border-color: #00A9B7;
+	background-color: #00A9B7;
 	font-family: "Open Sans", Sans-serif;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -274,7 +274,7 @@ header {
 .blog-post .read-more a:hover {
 	background-color: #fec503;
 	border-color: #fec503;
-	color: #0d3273;
+	color: #00A9B7;
 }
 .blog-post .blog-post-text {
 	text-align: left;
@@ -290,7 +290,7 @@ header {
 }
 /*- Sidebar -*/
 .sidebar-title {
-	background-color: #0d3273;
+	background-color: #00A9B7;
 	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
@@ -421,7 +421,7 @@ footer .footer-socials {
 footer .footer-socials a {
 	display: inline-block;
 	margin-right: 5px;
-	background-color: #0d3273;
+	background-color: #00A9B7;
 	color: #fff;
 	/* padding: 20px; */
 	font-size: 20px;
@@ -435,7 +435,7 @@ footer .footer-socials a {
 	transition: all 0.2s ease-out;
 }
 footer .footer-socials a:hover {
-	color: #0d3273;
+	color: #00A9B7;
 	background-color: #fec503;
 }
 footer .footer-bottom {
@@ -453,7 +453,7 @@ footer .footer-bottom {
 #clockdiv > div{
 	padding: 0px;
 	border-radius: 3px;
-	background: #0d3273;
+	background: #00A9B7;
 	display: inline-block;
 }
 
@@ -475,7 +475,7 @@ footer .footer-bottom {
 
 .tg  {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;width: 100%}
 .tg td{font-size:17px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-size:17px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#0d3273;color:white;background-color:#0d3273;}
+.tg th{font-size:17px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#00A9B7;color:white;background-color:#00A9B7;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-i817{background-color:#f9f9f9;border-color:#000000;text-align:left;vertical-align:top}
@@ -577,8 +577,8 @@ Main Components
 }
 
 .cd-schedule .events .top-info {
-  background-color: #0d3273;
-  border-color: #0d3273;
+  background-color: #00A9B7;
+  border-color: #00A9B7;
   color: white;
   width: 100%;
   padding: 0 5%;
@@ -764,11 +764,11 @@ Main Components
 .cd-schedule .single-event[data-event="event-1"],
 .cd-schedule [data-event="event-1"] .header-bg {
   /* this is used to set a background color for the event and the modal window */
-  background: #0d3273;
+  background: #00A9B7;
 }
 
 .cd-schedule .single-event[data-event="event-1"]:hover {
-  background: #0d3273;
+  background: #00A9B7;
 }
 
 .cd-schedule .single-event[data-event="event-2"],
